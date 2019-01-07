@@ -2,7 +2,6 @@
 date = "2019-01-07T08:00:00+00:00"
 title = "Software"
 [menu.main]
-name = ""
 weight = 4
 
 +++
