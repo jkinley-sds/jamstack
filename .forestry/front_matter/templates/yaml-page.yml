@@ -13,5 +13,3 @@ fields:
   type: datetime
   hidden: false
   default: ''
-pages:
-- content/testing.md
