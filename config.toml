@@ -3,14 +3,12 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 defaultContentLanguage = "en"
 enableEmoji = true
 languageCode = "en-us"
+metaDataFormat = "yaml"
 pygmentsCodefences = true
 pygmentsUseClasses = true
 rssLimit = 10
 theme = "hermit"
 title = "Hugo Hermit"
-metaDataFormat = "yaml"
-
-
 [author]
 name = "John Doe"
 [blackfriday]
