@@ -25,5 +25,3 @@ Nullam quis risus eget urna mollis ornare vel eu leo. Sed posuere consectetur es
 Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget metus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
 Maecenas sed diam eget risus varius blandit sit amet non magna. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-Nulla vitae elit libero, a pharetra augue. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
