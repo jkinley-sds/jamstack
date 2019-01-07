@@ -19,4 +19,7 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
+build:
+  publish_command: hugo
+  output_directory: public
 version: '0.53'
