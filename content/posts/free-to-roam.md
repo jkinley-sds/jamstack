@@ -8,4 +8,4 @@ Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
 
 Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada magna mollis euismod. Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur.
 
-!\[Just a test\](/uploads/photo-1492546643178-96d64f3fd824.jpeg "Art")
+![Just a test](/uploads/photo-1492546643178-96d64f3fd824.jpeg "Art")
