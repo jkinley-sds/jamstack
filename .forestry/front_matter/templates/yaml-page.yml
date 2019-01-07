@@ -14,4 +14,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/test.md
+- content/testing.md
