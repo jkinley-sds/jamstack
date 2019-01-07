@@ -1,9 +1,7 @@
 {
-
-    "name": "Sierra Data Systems",
-    "address": "123 Main Street",
-    "city": "Grass Valley",
-    "state": "CA",
-    "zipcode":  "95945"
-
+  "name": "SDS",
+  "address": "123 Main Street",
+  "city": "Grass Valley",
+  "state": "CA",
+  "zipcode": 95945
 }
