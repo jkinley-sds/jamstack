@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data/contact-info.json
   label: Contact Info
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
