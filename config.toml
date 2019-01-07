@@ -8,6 +8,9 @@ pygmentsUseClasses = true
 rssLimit = 10
 theme = "hermit"
 title = "Hugo Hermit"
+metaDataFormat = "yaml"
+
+
 [author]
 name = "John Doe"
 [blackfriday]
