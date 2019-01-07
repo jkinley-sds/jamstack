@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: data/contact-info.json
+  path: data/contact_info.json
   label: Contact Info
 - type: directory
   path: content
