@@ -16,17 +16,17 @@ name = "John Doe"
 [blackfriday]
 hrefTargetBlank = true
 [[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 2
+name = "Posts"
+url = "posts/"
+weight = 1
 [[menu.main]]
 name = "About"
 url = "about/"
 weight = 3
 [[menu.main]]
-name = "Posts"
-url = "posts/"
-weight = 1
+name = "Contact"
+url = "contact/"
+weight = 2
 [params]
 dateform = "Jan 2, 2006"
 dateformNum = "2006-01-02"
