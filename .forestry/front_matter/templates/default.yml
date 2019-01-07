@@ -19,5 +19,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/posts/jeff-was-here.md
 - content/posts/free-to-roam.md
