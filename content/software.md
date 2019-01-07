@@ -1,6 +1,9 @@
 +++
 date = "2019-01-07T08:00:00+00:00"
 title = "Software"
+[menu.main]
+name = ""
+weight = 4
 
 +++
 Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies vehicula ut id elit. Vestibulum id ligula porta felis euismod semper. Aenean lacinia bibendum nulla sed consectetur. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Sed posuere consectetur est at lobortis.
