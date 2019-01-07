@@ -14,5 +14,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/software.md
 - content/features.md
+- content/software.md
