@@ -1,47 +1,28 @@
-baseURL = "https://example.com"
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-defaultContentLanguage = "en"
-enableEmoji = true
+baseURL = "www.example.com"
 languageCode = "en-us"
-pygmentsCodefences = true
-pygmentsUseClasses = true
-rssLimit = 10
-theme = "hermit"
-title = "Hugo Hermit"
-[author]
-name = "John Doe"
-[blackfriday]
-hrefTargetBlank = true
-[[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 2
-[[menu.main]]
-name = "About"
-url = "about/"
-weight = 3
-[[menu.main]]
-name = "Posts"
-url = "posts/"
-weight = 1
+title = "Hugo Hero"
+theme = "hugo-hero-theme"
+themesDir = "../.."
+
 [params]
-dateform = "Jan 2, 2006"
-dateformNum = "2006-01-02"
-dateformNumTime = "2006-01-02 15:04 -0700"
-dateformShort = "Jan 2"
-footerCopyright = " &#183; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC 4.0</a>"
-homeSubtitle = "A minimal and fast theme for Hugo."
-justifyContent = false
-themeColor = "#494f5c"
-[[params.social]]
-name = "twitter"
-url = "https://twitter.com/"
-[[params.social]]
-name = "instagram"
-url = "https://instagram.com/"
-[[params.social]]
-name = "github"
-url = "https://github.com/"
-[taxonomies]
-category = ""
-tag = "tags"
+    google_analytics_id=""
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
