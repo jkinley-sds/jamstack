@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/posts/running/</loc>
+    <lastmod>2019-01-07T09:32:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/contact/</loc>
+    <lastmod>2019-01-07T09:28:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/gizmo/</loc>
+    <lastmod>2019-01-07T09:28:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/my-first-post/</loc>
+    <lastmod>2019-01-07T09:11:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2019-01-07T08:55:06-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/features/</loc>
+    <lastmod>2019-01-07T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/free-to-roam/</loc>
+    <lastmod>2019-01-07T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/software/</loc>
+    <lastmod>2019-01-07T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-01-07T09:32:29-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/misc/</loc>
+    <lastmod>2019-01-07T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2019-01-07T09:32:29-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/sds/</loc>
+    <lastmod>2019-01-07T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2019-01-07T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/untagged/</loc>
+    <lastmod>2019-01-07T09:32:29-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
