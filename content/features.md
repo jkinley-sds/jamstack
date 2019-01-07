@@ -1,6 +1,8 @@
 +++
 date = "2019-01-07T08:00:00+00:00"
 title = "Features"
+[menu.main]
+weight = 5
 
 +++
 This is content submitted via a guest account. Pretty awesome.
